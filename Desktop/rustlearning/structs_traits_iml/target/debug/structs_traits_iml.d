@@ -1,0 +1,1 @@
+/home/hadid/Desktop/rustlearning/structs_traits_iml/target/debug/structs_traits_iml: /home/hadid/Desktop/rustlearning/structs_traits_iml/src/main.rs /home/hadid/Desktop/rustlearning/structs_traits_iml/src/random_info.rs
